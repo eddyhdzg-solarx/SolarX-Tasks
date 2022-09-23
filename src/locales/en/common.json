@@ -1,0 +1,18 @@
+{
+  "auth": {},
+  "common": {},
+  "dates": {},
+  "filters": {},
+  "forms": {},
+  "locales": {},
+  "pages": {
+    "index": {
+      "tasks": "Tasks",
+      "description": "Tasks using t3 stack and MongoDB"
+    }
+  },
+  "projects": {},
+  "router": {},
+  "snackbar": {},
+  "table": {}
+}
